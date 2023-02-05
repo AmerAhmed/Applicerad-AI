@@ -1,6 +1,6 @@
 # Fruis datasets
 
-[![Open In Readme and then In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AmerAhmed/Applicerad-AI/blob/main/amer_amir_abshir_elvir.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AmerAhmed/Applicerad-AI/blob/main/amer_amir_abshir_elvir.ipynb)
 
 This is just one example of how machine learning could be used to classify fresh and rotten fruits. There are many other potential approaches and techniques that could be used as well.
 

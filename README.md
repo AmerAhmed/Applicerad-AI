@@ -16,4 +16,4 @@ Evaluate the model's performance on the test set. This will involve using the mo
 
 If the model's performance is not satisfactory, we can try fine-tuning the model by adjusting its hyperparameters or adding more layers or filters.
 
-Process for building a machine learning model to classify images of fruits as fresh or rotten. 
+Process for building a machine learning model to classify images of fruits as fresh or rotten..

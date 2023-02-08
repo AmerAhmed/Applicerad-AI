@@ -1,6 +1,6 @@
 # Fruis datasets
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AmerAhmed/Applicerad-AI/blob/main/amer_amir_abshir_elvir.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmerAhmed/Applicerad-AI/blob/main/amer_amir_abshir_elvir.ipynb)
 # Classify fresh and rotten fruits.
 
 We start by collecting a dataset of images of fresh and rotten fruits. We will need a number of images, with a roughly equal number of examples of each class (fresh and rotten). We should also make sure that the images are of good quality and resolution, and that they are correctly labeled as fresh or rotten.

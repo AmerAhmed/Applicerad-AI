@@ -1,4 +1,4 @@
-# Fruit Classification fresh or rotten
+# Rotten vs Fresh Fruit Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AmerAhmed/Applicerad-AI/blob/main/amer_amir_abshir_elvir.ipynb)
 

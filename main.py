@@ -8,6 +8,11 @@ from prediction import prediction1
 import uvicorn
 
 app = FastAPI()
+'''
+Write "uvicorn main:app --reload" in the terminal in order to start the API. Use the URL provided to you in the terminal
+and add /docs to use the features. Don't forget to install the requirements by typing "pip install -r requirements.txt" 
+'''
+
 
 # import models
 model = tf.keras.models.load_model(os.path.abspath('model3test'))

@@ -4,14 +4,10 @@ import numpy as np
 from tensorflow.python.keras.models import load_model
 from fastapi import FastAPI
 from fastapi import UploadFile, File
-from prediction import prediction1
+from api.prediction import prediction1
 import uvicorn
 
 app = FastAPI()
-'''
-Write "uvicorn main:app --reload" in the terminal in order to start the API. Use the URL provided to you in the terminal
-and add /docs to use the features. Don't forget to install the requirements by typing "pip install -r requirements.txt" 
-'''
 
 
 # import models
